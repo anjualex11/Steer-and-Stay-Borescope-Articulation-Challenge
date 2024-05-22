@@ -40,7 +40,8 @@ I chose C# for this implementation due to several reasons:
 2. Navigate to the directory containing the source code.
 3. Run the program with an input file. or run the .exe file from bin/Release/SteerStayBorescope.exe.
 4. Run the code in terminal "SteerStayBorescop.exe <input.txt>"
-5. Provide `<input_file_path>` with the path to the input file containing commands. Alternatively, you can provide input commands through STDIN.
+5. PLease use the sample input.txt file provided
+6. Provide `<input_file_path>` with the path to the input file containing commands. Alternatively, you can provide input commands through STDIN.
 
 ### Running the Tests:
 1. Ensure you have NUnit and NUnit3TestAdapter installed in your development environment.
