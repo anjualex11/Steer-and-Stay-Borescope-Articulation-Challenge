@@ -1,0 +1,16 @@
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\SteerStayBorescope.exe.config
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\SteerStayBorescope.exe
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\SteerStayBorescope.pdb
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\obj\Debug\SteerStayBorescope.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\obj\Debug\SteerStayBorescope.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\obj\Debug\SteerStayBorescope.exe
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\obj\Debug\SteerStayBorescope.pdb
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\nunit.framework.dll
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\nunit.framework.legacy.dll
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\nunit.framework.xml
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\nunit.framework.legacy.xml
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mathe\source\repos\SteerStayBorescope\SteerStayBorescope\obj\Debug\SteerStayBorescope.csproj.CopyComplete
