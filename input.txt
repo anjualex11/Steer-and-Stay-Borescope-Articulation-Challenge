@@ -1,0 +1,15 @@
+calibrate 500 500 CENTER
+
+calibrate 500 100 DOWN
+
+calibrate 500 900 UP
+
+calibrate 900 500 RIGHT
+
+calibrate 100 500 LEFT
+
+touch 400 0 801 801
+
+joystick 475 518
+
+joystick 100 900
