@@ -38,7 +38,7 @@ I chose C# for this implementation due to several reasons:
 ### Running the Code:
 1. Clone the repository to your local machine. or you can directly clone from Visual Studio by providing the repository link.
 2. Navigate to the directory containing the source code.
-3. Run the program with an input file. or run the .exe file.
+3. Run the program with an input file. or run the .exe file from bin/Release/SteerStayBorescope.exe.
 4. Run the code in terminal "SteerStayBorescop.exe <input.txt>"
 5. Provide `<input_file_path>` with the path to the input file containing commands. Alternatively, you can provide input commands through STDIN.
 
